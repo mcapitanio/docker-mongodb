@@ -1,0 +1,25 @@
+version: "2"
+
+services:
+
+    mongodb:
+        build:
+            context: .
+            dockerfile: Dockerfile
+        image: mcapitanio/mongodb:3.0
+        networks:
+            - default
+        volumes:
+            - mongodb_data:/data/db
+        ports:
+            - "27017:27017"
+
+volumes:
+    mongodb_data:
+
+networks:
+    default:
+      external:
+        name: default
+    default:
+        driver: bridge
