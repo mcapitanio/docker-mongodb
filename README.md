@@ -12,4 +12,4 @@ You can pull it with:
 
 ### Available tags:
 
-- MongoDB 3.0 ([0.5](https://github.com/mcapitanio/docker-mongodb/blob/3.0/Dockerfile), [latest](https://github.com/mcapitanio/docker-mongodb/blob/latest/Dockerfile))
+- MongoDB 3.0 ([3.0](https://github.com/mcapitanio/docker-mongodb/blob/3.0/Dockerfile), [latest](https://github.com/mcapitanio/docker-mongodb/blob/latest/Dockerfile))
