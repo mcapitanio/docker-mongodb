@@ -1,3 +1,3 @@
-FROM library/mongo:3.0
+FROM library/mongo
 
 MAINTAINER Matteo Capitanio <matteo.capitanio@gmail.com>

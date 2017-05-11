@@ -6,7 +6,7 @@ services:
         build:
             context: .
             dockerfile: Dockerfile
-        image: mcapitanio/mongodb:3.0
+        image: mcapitanio/mongodb:latest
         networks:
             - default
         volumes:
