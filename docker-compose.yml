@@ -4,7 +4,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    image: mcapitanio/mongodb:3.2
+    image: mcapitanio/mongodb:3.4
     networks:
     - parrot
     ports:
