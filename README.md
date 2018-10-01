@@ -26,7 +26,7 @@ Run with Docker Compose:
 
 ### Available tags:
 
-- MongoDB 4.0 ([4.0](https://github.com/parrotstream/docker-mongodb/blob/4.0/Dockerfile), [latest](https://github.com/parrotstream/docker-mongodb/blob/latest/Dockerfile))
-- MongoDB 3.6 ([3.6](https://github.com/parrotstream/docker-mongodb/blob/3.6/Dockerfile))
-- MongoDB 3.4 ([3.4](https://github.com/parrotstream/docker-mongodb/blob/3.4/Dockerfile))
-- MongoDB 3.2 ([3.2](https://github.com/parrotstream/docker-mongodb/blob/3.2/Dockerfile))
+- MongoDB 4.0 ([4.0](https://github.com/parrot-stream/docker-mongodb/blob/4.0/Dockerfile), [latest](https://github.com/parrot-stream/docker-mongodb/blob/latest/Dockerfile))
+- MongoDB 3.6 ([3.6](https://github.com/parrot-stream/docker-mongodb/blob/3.6/Dockerfile))
+- MongoDB 3.4 ([3.4](https://github.com/parrot-stream/docker-mongodb/blob/3.4/Dockerfile))
+- MongoDB 3.2 ([3.2](https://github.com/parrot-stream/docker-mongodb/blob/3.2/Dockerfile))
